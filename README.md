@@ -7,4 +7,5 @@ Install the App on your server and use this link as webhook:
 
 `http://YOUR_APP_PATH_HERE/hook-1`
 
-You can modify/copy+paste the code to create more hooks.
+You can modify/copy+paste the code to create more hooks.  
+Please check console to see the coming WebHook requests.
