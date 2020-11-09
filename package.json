@@ -1,0 +1,25 @@
+{
+  "name": "vd-test-webhook",
+  "version": "0.0.1",
+  "description": "Test webhook for venue-dashboard.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "formidable": "^1.2.2",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/animatedcreativity/vd-test-webhook"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
